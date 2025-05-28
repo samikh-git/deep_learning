@@ -1,4 +1,4 @@
-<h1> Deep Learning Course <h1>
+##Deep Learning Course 
 
 This is where I will be creating my models and training them. 
 
