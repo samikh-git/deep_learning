@@ -175,3 +175,7 @@ cython_debug/
 
 #Mac Stuff
 *.DS_Store
+
+#NLP - Huggingface
+NLP/outputs
+NLP/.idea
