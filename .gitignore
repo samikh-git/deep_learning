@@ -180,3 +180,7 @@ cython_debug/
 NLP/outputs
 NLP/.idea
 NLP/dickens-model
+
+#Titanic dataset
+tabular/titanic
+tabular/titanic.zip
