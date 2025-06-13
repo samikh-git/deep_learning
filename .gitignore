@@ -184,3 +184,6 @@ NLP/dickens-model
 #Titanic dataset
 tabular/titanic
 tabular/titanic.zip
+
+#Movie Lens dataset
+collab/movie-lens-dataset
